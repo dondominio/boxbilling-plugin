@@ -46,6 +46,7 @@ class Registrar_Adapter_DonDominio extends Registrar_AdapterAbstract
 	 */
 	protected $additionalFields = array(
 		'.aero' => array('aeroId', 'aeroPass'),
+		'.barcelona' => array('domainIntendedUse'),
 		'.cat' => array('domainIntendedUse'),
 		'.pl' => array('domainIntendedUse'),
 		'.scot' => array('domainIntendedUse'),
