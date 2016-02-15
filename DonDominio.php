@@ -54,7 +54,12 @@ class Registrar_Adapter_DonDominio extends Registrar_AdapterAbstract
 		'.gal' => array('domainIntendedUse'),
 		'.quebec' => array('domainIntendedUse'),
 		'.coop' => array('coopCVC'),
-		'.fr' => array('ownerDateOfBirth', 'frTradeMark', 'frSirenNumber'),
+		'.fr' => array('frTradeMark', 'frSirenNumber'),
+		'.re' => array('frTradeMark', 'frSirenNumber'),
+		'.yt' => array('frTradeMark', 'frSirenNumber'),
+		'.pm' => array('frTradeMark', 'frSirenNumber'),
+		'.wf' => array('frTradeMark', 'frSirenNumber'),
+		'.tf' => array('frTradeMark', 'frSirenNumber'),
 		'.hk' => array('ownerDateOfBirth'),
 		'.it' => array('ownerDateOfBirth', 'ownerPaceOfBirth'),
 		'.jobs' => array
