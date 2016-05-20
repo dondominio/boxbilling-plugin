@@ -53,7 +53,6 @@ class Registrar_Adapter_DonDominio extends Registrar_AdapterAbstract
 		'.eus' => array('domainIntendedUse'),
 		'.gal' => array('domainIntendedUse'),
 		'.quebec' => array('domainIntendedUse'),
-		'.coop' => array('coopCVC'),
 		'.fr' => array('frTradeMark', 'frSirenNumber'),
 		'.re' => array('frTradeMark', 'frSirenNumber'),
 		'.yt' => array('frTradeMark', 'frSirenNumber'),
