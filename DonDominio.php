@@ -60,7 +60,6 @@ class Registrar_Adapter_DonDominio extends Registrar_AdapterAbstract
 		'.wf' => array('frTradeMark', 'frSirenNumber'),
 		'.tf' => array('frTradeMark', 'frSirenNumber'),
 		'.hk' => array('ownerDateOfBirth'),
-		'.it' => array('ownerDateOfBirth', 'ownerPaceOfBirth'),
 		'.jobs' => array
 		(
 			'jobsOwnerIsAssocMember', 'jobsOwnerWebsite', 'jobsOwnerTitle',
