@@ -7,7 +7,7 @@ API.
 The plugin also provides support for managing domain contacts.
 
 For documentation, more information, support, and guides, visit
-[dev.mrdomain.com/boxbilling/docs/plugin/](https://dev.mrdomain.com/boxbilling/docs/plugin/).
+[dondominio.dev/en/boxbilling/docs/plugin/](https://dondominio.dev/en/boxbilling/docs/plugin/).
 
 # Plugin de Registro para BoxBilling de DonDominio/MrDomain
 
@@ -18,4 +18,4 @@ DonDominio/MrDomain.
 El plugin también ofrece soporte para gestionar contactos de dominios.
 
 Para más información, documentación, soporte y guías, visita
-[dev.dondominio.com/boxbilling/docs/plugin/](https://dev.dondominio.com/boxbilling/docs/plugin/).
+[dondominio.dev/es/boxbilling/docs/plugin/](https://dondominio.dev/es/boxbilling/docs/plugin/).
